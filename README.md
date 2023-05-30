@@ -1,6 +1,6 @@
 # Gamelist Extended
 
-![Screenshot do projeto](https://mdswanson.com/static/chops-ux-step-4.png "Screenshot do projeto").
+![Screenshot do projeto](/gamelist-img.jpg)
 
 ### Descrição
 
@@ -8,18 +8,28 @@ O projeto visa adicionar novas funcionalidades em um projeto anterior do Felipe,
 
 ### Estado Inicial  
 
+- Cadastrar e fazer login como usuário
+- Alterar informaçõess de cadastro do usuário  
+- Visitar perfil do usuário, onde diz informações sobre ele e mmostra sua lista de jogos
+- Buscar jogos
+- Acessar página com informações dos jogos
+- Adicionar jogos a sua lista
+- Escrever uma review e dar nota para jogos
+
 ### Novas Funcionalidades  
 
-- Adicionar amigos
-- Visitar o perfil dos amigos  
+- Seguir outros usuários
+- Visitar o perfil de outros usuários  
+- Aba comunidade para ver outros usuários  
 
 ### Repositórios
+
 [Frontend](https://github.com/Felipeamadori/gamelist-web)  
 [Backend](https://github.com/Felipeamadori/gamelistapi)  
 
 ### Deploy
 
-Preencha aqui a URL para acesso ao site publicado
+[Deploy](https://gamelist-web.herokuapp.com/)
 
 ### Desenvolvedor(es)
 
@@ -33,7 +43,9 @@ Backend: Spring, Heroku
 
 ### Ambiente de desenvolvimento
 
-Preencha aqui uma lista detalhada de ferramentas de desenvolvimento usadas
+- Vscode - IDE usada no front
+- IntelliJ - IDE usada para o back
+- Google Chrome
 
 ### Créditos
 
